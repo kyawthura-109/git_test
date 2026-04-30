@@ -6,6 +6,7 @@ public class EcommerceMain {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Git Test");
 		System.out.println("Changed ");
+		System.out.println("Modified Stage");
 	}
 
 }
